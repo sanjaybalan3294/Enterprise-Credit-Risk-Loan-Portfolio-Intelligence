@@ -1,0 +1,21 @@
+# ==============================================================================
+# Banking & Credit Risk Analytics Platform
+# Production Dependencies & Environment Specifications
+# Python Version: >=3.10, <3.13
+# ==============================================================================
+
+# Core Data Engineering & Numerical Computing
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.5
+
+# Relational Database ORM & MySQL Drivers
+SQLAlchemy>=2.0.0
+PyMySQL>=1.1.0
+
+# Document & Executive Reporting Automation
+python-docx>=1.1.0
+
+# Interactive Analysis & Notebook Environment
+jupyterlab>=4.0.0
+ipykernel>=6.29.0
