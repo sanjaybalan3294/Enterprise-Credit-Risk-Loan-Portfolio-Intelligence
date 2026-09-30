@@ -282,7 +282,3 @@ Open `Bank Decision Management - Credit Risk Dashboard.twb` in Tableau Public / 
 
 ---
 
-## 👤 Author & Tech Lead
-- **Project Lead:** Sanjay Balan
-- **Role:** Senior Data Engineer & Tech Lead
-- **Contact:** sanjaybalan3294@gmail.com
