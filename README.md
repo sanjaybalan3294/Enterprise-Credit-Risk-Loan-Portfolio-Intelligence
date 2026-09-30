@@ -208,7 +208,6 @@ Citi_Banking_Analytics_Project/
 ├── 01_Banking_Analytics_Data_.ipynb        # Interactive Jupyter ETL & Analytics Pipeline
 ├── banking_analytics_production.sql        # Validated Production MySQL Queries & Schema DDL
 ├── Bank Decision Management - ... .twb      # Tableau Public BI Workbook
-├── build_project_report.py                 # Automated Python Word Report Builder
 ├── Project_Report.docx                     # Professional Executive Project Report (1" margins, #102C57)
 ├── requirements.txt                        # Production Pinned Dependencies
 ├── README.md                               # Comprehensive Project Documentation
@@ -282,7 +281,3 @@ Open `Bank Decision Management - Credit Risk Dashboard.twb` in Tableau Public / 
 
 ---
 
-## 👤 Author & Tech Lead
-- **Project Lead:** Sanjay Balan
-- **Role:** Senior Data Engineer & Tech Lead
-- **Contact:** sanjaybalan3294@gmail.com
