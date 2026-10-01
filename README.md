@@ -176,7 +176,7 @@ ORDER BY Liquidity_Rank ASC;
 
 ## 📈 Tableau Business Intelligence Architecture
 
-The packaged workbook [`Bank Decision Management - Credit Risk Dashboard.twb`](.Tableau.twb) is built with:
+The packaged workbook [`Tableau.twb`](.Tableau.twb) is built with:
 - **Dual-Axis Synchronized Marks:** Visualizes Total Funded Exposure bar volumes paired with dual-synchronized delinquency and default rate lines.
 - **Geographic Choropleth Map:** Maps state-level underwriting density, showing concentration risk and regional delinquency heat across the United States.
 - **Underwriting Risk Matrices:** Matrix analyzing Loan Purpose (Debt Consolidation, Credit Card, Small Business) against Sub-Grades and Verification Status.
